@@ -14,16 +14,16 @@ appearance:
 # SEO
 
 marketing:
-  seo:
+  seo: ''
     site_type: Person
-    local_business_type: ProfessionalService
+    local_business_type: ''
     org_name: ''
-    description: 'An academic personal website that feature the most recent publications and databases.'
+    description: 'An academic personal website in political science that feature the most recent publications and databases.'
     twitter: ''
   analytics: 'Iakovlev', 'Gennadii Iakovlev', 'Dr. Dennadii Iakovlev'
     google_analytics: 'Iakovlev', 'Gennadii Iakovlev', 'Dr. Dennadii Iakovlev'
     baidu_tongji: ''
-  verification:
+  verification: ''
     google: 'Iakovlev', 'Gennadii Iakovlev', 'Dr. Dennadii Iakovlev'
     baidu: ''
 

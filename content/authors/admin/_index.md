@@ -19,7 +19,8 @@ bio: My research interests include autocratic politics and regime change.
 # Interests to show in About widget
 interests:
 - Autocratic Politics
-- Regime Change: Autocratization and Democratization
+- Autocratization
+- Democratization
 
 
 # Education to show in About widget
@@ -48,7 +49,7 @@ social:
   link: https://twitter.com/GeorgeCushen
 - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link:https://scholar.google.com/citations?user=jdpu-AgAAAAJ&hl=ru
 - icon: github
   icon_pack: fab
   link: https://github.com/gcushen
@@ -61,7 +62,7 @@ social:
 # and uncomment the lines below.
 icon: cv
 icon_pack: ai
-link: uploads/Iakovlev+CV.pdf
+link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "gennadii.iakovlev@eui.eu"

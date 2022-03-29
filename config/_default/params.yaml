@@ -16,15 +16,15 @@ appearance:
 marketing:
   seo:
     site_type: Person
-    local_business_type: ''
+    local_business_type: 'ProfessionalService'
     org_name: ''
-    description: 'A highly-customizable Hugo academic resume theme powered by Wowchemy website builder.'
-    twitter: 'wowchemy'
-  analytics:
-    google_analytics: ''
+    description: 'An academic personal website that feature the most recent publications and databases.'
+    twitter: ''
+  analytics: 
+    google_analytics: 'Iakovlev', 'Gennadii Iakovlev', 'Dr. Dennadii Iakovlev'
     baidu_tongji: ''
   verification:
-    google: ''
+    google: 'Iakovlev', 'Gennadii Iakovlev', 'Dr. Dennadii Iakovlev'
     baidu: ''
 
 # Site header

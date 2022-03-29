@@ -71,9 +71,8 @@ email: "gennadii.iakovlev@eui.eu"
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
+Gennadii Iakovlev holds a PhD in Political Science from the European University Institute.  His research interests include autocratic politics and various types of regime change: from transitions within autocratic regimes to democratisations to democratic backslides. He taught classes in European University at Saint Petersburg, HHU Dusseldorf, and TU Darmstadt.
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+In his thesis, he analyzed preconditions for pacted transitions from authoritarian rule and showed different pathways that allow for a successful transition depending on who represents the opposition during negotiations. He has collected a database of 45 attempts at negotiations during authoritarian breakdowns and conducted a fuzzy-set QCA analysis, teasing out the reasons for failed and successful attempts at negotiating a transition. His analysis shows that to be able to democratize through a pact, a country should either have a strong organizational capacity of opposition in most of the cases provided by a nationwide trade union or be a party dictatorship. Otherwise, an attempt at negotiations can fail or not lead to democratization.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.

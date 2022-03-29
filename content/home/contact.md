@@ -24,7 +24,7 @@ content:
       # Enable CAPTCHA challenge to reduce spam?
       captcha: false
 
-  # Contact details (edit or remove options as required)
+  # Cntact details (edit or remove options as required)
   email: gennadii.iakovlev@eui.eu
   phone: +39 35 1993 9294
   address:

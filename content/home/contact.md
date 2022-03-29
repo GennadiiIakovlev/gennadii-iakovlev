@@ -28,10 +28,10 @@ content:
   email: gennadii.iakovlev@eui.eu
   phone: +39 35 1993 9294
   address:
-    street: 450 Serra Mall
-    city: Stanford
-    region: CA
-    postcode: '94305'
+    street: Via della Badia dei Roccettini 9
+    city: Florence
+    region: FI
+    postcode: '50133'
     country: Italy
     country_code: IT
 
@@ -41,14 +41,14 @@ content:
    # - 'Wednesday 09:00 to 10:00'
   # appointment_url: 'https://calendly.com'
   contact_links:
-    - icon: twitter
-      icon_pack: fab
-      name: DM Me
-      link: 'https://twitter.com/Twitter'
+    # - icon: 
+     # icon_pack: fab
+      # name: DM Me
+      # link: 'https://twitter.com/Twitter'
     - icon: video
       icon_pack: fas
       name: Zoom Me
-      link: 'https://zoom.com'
+      link: 'https://eui-eu.zoom.us/j/6167119873?pwd=eklxM3pqeUFvQVNCMlkxZGNjamU3UT09'
 
 design:
   columns: '2'

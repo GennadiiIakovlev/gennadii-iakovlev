@@ -16,11 +16,11 @@ appearance:
 marketing:
   seo:
     site_type: Person
-    local_business_type: 'ProfessionalService'
+    local_business_type: ProfessionalService
     org_name: ''
     description: 'An academic personal website that feature the most recent publications and databases.'
     twitter: ''
-  analytics: 
+  analytics:
     google_analytics: 'Iakovlev', 'Gennadii Iakovlev', 'Dr. Dennadii Iakovlev'
     baidu_tongji: ''
   verification:

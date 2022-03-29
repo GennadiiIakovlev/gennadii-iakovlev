@@ -11,7 +11,7 @@ role: PhD in Political Science
 # Organizations/Affiliations to show in About widget
 organizations:
 - name: European University Institute
-  url: https://www.eui.eu/en/home
+  url: https://www.eui.eu/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include autocratic politics and regime change.
@@ -62,7 +62,7 @@ social:
 # and uncomment the lines below.
 icon: cv
 icon_pack: ai
-link: uploads/resume.pdf
+link: static/uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "gennadii.iakovlev@eui.eu"
@@ -74,4 +74,4 @@ Gennadii Iakovlev holds a PhD in Political Science from the European University 
 
 In his thesis, he analyzed preconditions for pacted transitions from authoritarian rule and showed different pathways that allow for a successful transition depending on who represents the opposition during negotiations. He has collected a database of 45 attempts at negotiations during authoritarian breakdowns and conducted a fuzzy-set QCA analysis, teasing out the reasons for failed and successful attempts at negotiating a transition. His analysis shows that to be able to democratize through a pact, a country should either have a strong organizational capacity of opposition in most of the cases provided by a nationwide trade union or be a party dictatorship. Otherwise, an attempt at negotiations can fail or not lead to democratization.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.

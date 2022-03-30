@@ -30,16 +30,16 @@ experience:
     company_logo: org-x
     location: Dusseldorf
     date_start: '2019-12-01'
-    date_end: '2019-12-01'
-    description: 'Taught my own 36h course on democratization and democratic backsliding.'
+    date_end: '2019-12-02'
+    description: Taught my own 36h course on democratization and democratic backsliding.
 - title: Visting Lecturer
     company: TU Darmstadt
     company_url: 'https://www.tucan.tu-darmstadt.de/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000002,-N000036,-N0,-N373765963157111,-N373765963175112,-N0,-N0,-N0'
     company_logo: org-x
     location: Dusseldorf
     date_start: '2020-06-01'
-    date_end: '2020-06-01'
-    description: 'Taught my own 32h course on democratization and democratic backsliding.'
+    date_end: '2020-06-02'
+    description: Taught my own 32h course on democratization and democratic backsliding.
 
 design:
   columns: '2'

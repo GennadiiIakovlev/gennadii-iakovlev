@@ -36,11 +36,19 @@ experience:
     company: HHU Dusseldorf
     company_url: 'https://www.hhu.de/en/'
     company_logo: org-x
-    location: California
+    location: Dusseldorf
     date_start: '2019-12-01'
     date_end: '2019-12-01'
     description: Taught my own 36h course on democratization and democratic backsliding.
 
+- title: Visting Lecturer
+    company: TU Darmstadt
+    company_url: 'https://www.hhu.de/en/'
+    company_logo: org-x
+    location: Dusseldorf
+    date_start: '2020-06-01'
+    date_end: ''
+    description: Taught my own 36h course on democratization and democratic backsliding.
 design:
   columns: '2'
 ---

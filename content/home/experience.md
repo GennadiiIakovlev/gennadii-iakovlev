@@ -28,8 +28,8 @@ date_format: Jan 2006
    #    location: California
    #    date_start: '2021-01-01'
    #    date_end: ''
-   
-    description: |2-
+  
+ #   description: |2-
 
   - title: Visting Lecturer
     company: HHU Dusseldorf

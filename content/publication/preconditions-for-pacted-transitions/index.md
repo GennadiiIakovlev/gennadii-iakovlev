@@ -5,7 +5,7 @@ publication_types:
 authors:
   - Gennadii Iakovlev
 publication: Under Review
-publication_short: EPSR
+publication_short: EPSR (Under Review)
 abstract: "This paper investigates why some attempts at pacted transitions from
   non-democratic rule fail, while others succeed. It determines the composition
   of opposition organizations that enable pacting. The paper draws on a data set

@@ -24,6 +24,17 @@ date_format: Jan 2006
 
 experience:
 
+
+   
+  - title: 'Visting Lecturer'
+    company: 'TU Darmstadt'
+    company_url: 'https://www.tucan.tu-darmstadt.de/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000002,-N000036,-N0,-N373765963157111,-N373765963175112,-N0,-N0,-N0'
+ #   company_logo: 'org-x'
+    location: 'Darmstadt, via Zoom'
+    date_start: '2020-06-01'
+   # date_end: ''
+    description: 'Taught my own 32h course on democratic backsliding.'
+    
   - title: 'Visting Lecturer'
     company: 'HHU Dusseldorf'
     company_url: 'https://www.hhu.de/en/'
@@ -32,15 +43,18 @@ experience:
     date_start: '2019-12-01'
    # date_end: ''
     description: 'Taught my own 36h course on democratization and democratic backsliding.'
-   
+    
   - title: 'Visting Lecturer'
-    company: 'TU Darmstadt'
-    company_url: 'https://www.tucan.tu-darmstadt.de/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000002,-N000036,-N0,-N373765963157111,-N373765963175112,-N0,-N0,-N0'
- #   company_logo: 'org-x'
-    location: 'Darmstadt'
-    date_start: '2020-06-01'
+    company: 'European University at Saint Petersburg'
+    company_url: 'https://www.hhu.de/en/'
+   # company_logo: 'HHU.svg'
+    location: 'Saint Petersburg'
+    date_start: '2019-09-01'
    # date_end: ''
-    description: 'Taught my own 32h course on democratization and democratic backsliding.'
+    description: 'Taught my own 12h introductory crash course on autocratic politics.'
+
+
+
 
 design:
   columns: '2'

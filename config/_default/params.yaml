@@ -15,7 +15,7 @@ appearance:
 
   seo: 
     site_type: Person
-     local_business_type:
+     local_business_type: ''
    #  org_name: 
    #  description: 'An academic personal website in political science that feature the most recent publications and databases.'
    #  twitter: 

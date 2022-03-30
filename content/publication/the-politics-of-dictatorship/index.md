@@ -1,5 +1,5 @@
 ---
-title: The Politics of Dictatorship
+title: The Politics of Dictatorships
 publication_types:
   - "3"
 authors:

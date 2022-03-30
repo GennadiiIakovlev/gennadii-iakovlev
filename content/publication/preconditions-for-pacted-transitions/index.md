@@ -3,7 +3,7 @@ title: Preconditions for Pacted Transitions
 publication_types:
   - "2"
 authors:
-  - Gennadii Iakovlev
+  - admin
 publication: Under Review
 publication_short: EPSR (Under Review)
 abstract: "This paper investigates why some attempts at pacted transitions from

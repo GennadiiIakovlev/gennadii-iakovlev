@@ -22,7 +22,8 @@ appearance:
    #  google_analytics: 'Iakovlev', 'Gennadii Iakovlev', 'Dr. Dennadii Iakovlev'
   #   baidu_tongji:
   verification:
-   google: 'google-site-verification=G2THQs1wuS50Cx6S71qc-KDYw-Cg209X2UjslzyKC38'
+  # google: 'google-site-verification=G2THQs1wuS50Cx6S71qc-KDYw-Cg209X2UjslzyKC38'
+   google: '<meta name="google-site-verification" content="IUXRF8MohGM6bH1TWDiIQUTIk_Y4a7wTz5NKaPY0-yc" />' 
    #  baidu:
 
 # Site header

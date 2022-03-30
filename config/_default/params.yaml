@@ -21,8 +21,8 @@ appearance:
  #  analytics: 'Iakovlev', 'Gennadii Iakovlev', 'Dr. Dennadii Iakovlev'
    #  google_analytics: 'Iakovlev', 'Gennadii Iakovlev', 'Dr. Dennadii Iakovlev'
   #   baidu_tongji:
- #  verification:
-   #  google: 'Iakovlev', 'Gennadii Iakovlev', 'Dr. Dennadii Iakovlev'
+  verification:
+   google: google-site-verification=G2THQs1wuS50Cx6S71qc-KDYw-Cg209X2UjslzyKC38
    #  baidu:
 
 # Site header

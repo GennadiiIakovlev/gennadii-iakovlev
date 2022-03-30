@@ -4,7 +4,7 @@ subtitle: " Preconditions for pacted transitions"
 publication_types:
   - "7"
 authors:
-  - Gennadii Iakovlev
+  - admin 
 doi: ''
 abstract: "This dissertation investigates why some attempts at pacted
   transitions from non-democratic rule fail while others succeed. Using a

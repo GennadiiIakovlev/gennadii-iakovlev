@@ -28,23 +28,18 @@ experience:
     company: HHU Dusseldorf
     company_url: 'https://www.hhu.de/en/'
     company_logo: org-x
-   
-   # location: Dusseldorf
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-   # date_start: '2019-12-01'
-   # date_end: ''
+   location: Dusseldorf
+   date_start: '2019-12-01'
+    date_end: ''
     description: 'Taught my own 36h course on democratization and democratic backsliding.'
     
 - title: Visting Lecturer
     company: TU Darmstadt
     company_url: 'https://www.tucan.tu-darmstadt.de/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000002,-N000036,-N0,-N373765963157111,-N373765963175112,-N0,-N0,-N0'
     company_logo: org-x
-    # location: Darmstadt
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-   # date_start: '2020-06-01'
-   # date_end: ''
+    location: Darmstadt
+    date_start: '2020-06-01'
+    date_end: ''
     description: 'Taught my own 32h course on democratization and democratic backsliding.'
 
 design:

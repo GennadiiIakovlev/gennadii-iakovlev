@@ -11,13 +11,13 @@ abstract: "This course seeks to shed light on some of the fundamental questions
   some countries hold competitive elections, but remain autocratic? How can we
   then distinguish between democracy and dictatorship?  Finally, what is
   democratic backsliding and why does it happen? "
+  publication: Course Syllabus
 draft: false
 featured: false
 image:
   filename: featured
   focal_point: Smart
   preview_only: false
-date: 2022-03-30T19:28:50.276Z
 
 url_pdf: https://github.com/GennadiiIakovlev/gennadii-iakovlev/raw/master/content/publication/regime-change-democratization-and-democratic-backsliding/regime-change-democratization-and-democratic-backsliding.pdf
 image:

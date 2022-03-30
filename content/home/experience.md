@@ -40,6 +40,7 @@ experience:
     date_start: '2019-12-01'
     date_end: '2019-12-01'
     description: Taught my own 36h course on democratization and democratic backsliding.
+experience:
 
 - title: Visting Lecturer
     company: TU Darmstadt

@@ -11,7 +11,7 @@ abstract: "This course seeks to shed light on some of the fundamental questions
   some countries hold competitive elections, but remain autocratic? How can we
   then distinguish between democracy and dictatorship?  Finally, what is
   democratic backsliding and why does it happen? "
-  publication: Course Syllabus
+publication: 'Course Syllabus'
 draft: false
 featured: false
 image:

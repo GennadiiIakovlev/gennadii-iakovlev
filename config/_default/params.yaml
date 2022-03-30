@@ -12,19 +12,30 @@ appearance:
   font_size: L
 
 # SEO
-
-  seo: 
+ seo: 
     site_type: Person
     local_business_type:
     org_name: 
-    description: 'An academic personal website in political science that feature the most recent publications and databases.'
+    description:
     twitter: 
-  analytics: 'Iakovlev', 'Gennadii Iakovlev', 'Dr. Dennadii Iakovlev'
-    google_analytics: 'Iakovlev', 'Gennadii Iakovlev', 'Dr. Dennadii Iakovlev'
+  analytics: 
+    google_analytics: 
     baidu_tongji:
   verification:
-    google: 'Iakovlev', 'Gennadii Iakovlev', 'Dr. Dennadii Iakovlev'
+    google: 
     baidu:
+ #  seo: 
+   #  site_type: Person
+   #  local_business_type:
+   #  org_name: 
+   #  description: 'An academic personal website in political science that feature the most recent publications and databases.'
+   #  twitter: 
+ #  analytics: 'Iakovlev', 'Gennadii Iakovlev', 'Dr. Dennadii Iakovlev'
+   #  google_analytics: 'Iakovlev', 'Gennadii Iakovlev', 'Dr. Dennadii Iakovlev'
+  #   baidu_tongji:
+ #  verification:
+   #  google: 'Iakovlev', 'Gennadii Iakovlev', 'Dr. Dennadii Iakovlev'
+   #  baidu:
 
 # Site header
 

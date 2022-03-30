@@ -30,7 +30,7 @@ experience:
     company_logo: org-x
     location: Dusseldorf
     date_start: '2019-12-01'
-    date_end: '2020-01-01'
+    date_end: ''
     description: Taught my own 36h course on democratization and democratic backsliding.
     
 - title: Visting Lecturer
@@ -39,7 +39,7 @@ experience:
     company_logo: org-x
     location: Dusseldorf
     date_start: '2020-06-01'
-    date_end: '2020-07-01'
+    date_end: ''
     description: Taught my own 32h course on democratization and democratic backsliding.
 
 design:

@@ -9,7 +9,7 @@ authors:
   - admin
 doi: 10.17323/1814-9545-2018-3-120-145
 publication: Вопросы образования
-publication_short: "Russian university is treated as a miniature political
+abstract: "Russian university is treated as a miniature political
   system in this article. Four hundred charters, statutes and ordinances are
   analyzed in order to identify three pivotal axes allowing us to classify
   constitutional frameworks of universities: the axis of independence from the

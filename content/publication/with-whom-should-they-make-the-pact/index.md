@@ -1,11 +1,11 @@
 ---
-title: With whom should they make the pact ?
+title: With whom should they make the pact?
 subtitle: " Preconditions for pacted transitions"
 publication_types:
   - "7"
 authors:
   - Gennadii Iakovlev
-doi: " 10.2870/135036"
+doi: https://cadmus.eui.eu/handle/1814/72978
 abstract: "This dissertation investigates why some attempts at pacted
   transitions from non-democratic rule fail while others succeed. Using a
   mixed-methods design, the research determines the composition and

@@ -14,7 +14,7 @@ abstract: This course seeks to shed light on the internal organization of
   dictatorship? What autocratic regimes are the most economically prosperous?
 draft: false
 featured: true
-url_pdf: 'assets/media/gennadii-iakovlev-the-politics-of-dictatorships-syllabus-2022-2.pdf'
+url_pdf: 'content/publication/the-politics-of-dictatorship/the-politics-of-dicatorship.pdf'
 
 image:
   filename: featured

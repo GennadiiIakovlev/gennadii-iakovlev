@@ -5,7 +5,7 @@ publication_types:
   - "3"
 authors:
   - Gennadii Iakovlev
-doi: 10.17632/dwtrkjz2kk.3
+doi: ''
 publication: Mendley Data
 abstract: "A new dataset on attempts to negotiate democratization from 1974 to
   2015, along with names, types, and characteristics of opposition organizations
@@ -16,6 +16,7 @@ abstract: "A new dataset on attempts to negotiate democratization from 1974 to
   the data is retrieved from V-Dem, NAVCO, GWF, and WB datasets. "
 draft: false
 featured: false
+url_source: https://data.mendeley.com/v1/datasets/dwtrkjz2kk/draft?a=886e15d2-0d2e-4c8d-acac-a58943031b79
 image:
   filename: featured
   focal_point: Smart

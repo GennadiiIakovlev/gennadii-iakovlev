@@ -37,8 +37,8 @@ experience:
     company_url: 'https://www.hhu.de/en/'
     company_logo: org-x
     location: California
-    date_start: '2019-12'
-    date_end: ''
+    date_start: '2019-12-01'
+    date_end: '2019-12-01'
     description: Taught my own 36h course on democratization and democratic backsliding.
 
 design:

@@ -5,7 +5,7 @@ publication_types:
   - "7"
 authors:
   - Gennadii Iakovlev
-doi: https://cadmus.eui.eu/handle/1814/72978
+doi: ''
 abstract: "This dissertation investigates why some attempts at pacted
   transitions from non-democratic rule fail while others succeed. Using a
   mixed-methods design, the research determines the composition and
@@ -37,6 +37,7 @@ abstract: "This dissertation investigates why some attempts at pacted
   identical."
 draft: false
 featured: true
+url_source: https://cadmus.eui.eu/handle/1814/72978
 image:
   filename: featured
   focal_point: Smart

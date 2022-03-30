@@ -4,6 +4,7 @@ publication_types:
   - "3"
 authors:
   - admin
+publication: Course Syllabus
 abstract: This course seeks to shed light on the internal organization of
   undemocratic regimes. Why do dictators go to wars? Do they behave differently
   in the realm of international politics?  Who can remove an autocrat from

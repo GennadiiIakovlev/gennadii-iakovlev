@@ -15,7 +15,7 @@ abstract: "This paper investigates why some attempts at pacted transitions from
   strong organizational power of the opposition can be drawn from trade unions
   or The Catholic Church participating in negotiations, even if the initial
   regime is personalistic. "
-draft: true
+draft: false
 featured: false
 image:
   filename: featured

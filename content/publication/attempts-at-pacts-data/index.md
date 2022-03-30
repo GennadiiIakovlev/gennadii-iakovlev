@@ -4,7 +4,7 @@ subtitle: "the opposition actors in the negotiations on democratization. "
 publication_types:
   - "3"
 authors:
-  - Gennadii Iakovlev
+  - admin
 doi: ''
 publication: Mendley Data
 abstract: "A new dataset on attempts to negotiate democratization from 1974 to

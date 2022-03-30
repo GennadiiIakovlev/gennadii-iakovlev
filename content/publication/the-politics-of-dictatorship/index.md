@@ -13,7 +13,9 @@ abstract: This course seeks to shed light on the internal organization of
   remain autocratic? How can we then distinguish between democracy and
   dictatorship? What autocratic regimes are the most economically prosperous?
 draft: false
-featured: false
+featured: true
+url_pdf: 'assets/media/gennadii-iakovlev-the-politics-of-dictatorships-syllabus-2022-2.pdf'
+
 image:
   filename: featured
   focal_point: Smart

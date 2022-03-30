@@ -6,7 +6,7 @@ publication_types:
 authors:
   - Mikhail Sokolov
   - Sofia Lopatina
-  - Gennadii Iakovlev
+  - admin
 doi: 10.17323/1814-9545-2018-3-120-145
 publication: Вопросы образования
 publication_short: "Russian university is treated as a miniature political
@@ -30,6 +30,6 @@ featured: false
 image:
   filename: featured
   focal_point: Smart
-  preview_only: false
+  preview_only: true
 date: 2018-03-01T17:18:40.972Z
 ---

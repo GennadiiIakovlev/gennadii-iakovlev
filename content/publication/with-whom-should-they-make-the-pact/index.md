@@ -35,7 +35,7 @@ abstract: "This dissertation investigates why some attempts at pacted
   how the organizational capacity of the opposition movement can determine
   different outcomes even when the society and the interactions of actors are
   identical."
-  publication: PhD Thesis
+
 draft: false
 featured: true
 url_source: https://cadmus.eui.eu/handle/1814/72978

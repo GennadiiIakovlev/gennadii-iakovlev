@@ -21,10 +21,10 @@ marketing:
     description: 'An academic personal website in political science that feature the most recent publications and databases.'
     twitter: 'wowchemy'
   analytics:
-    google_analytics: ''
+    google_analytics: 'G-B9SJS5JPCS'
     baidu_tongji: ''
   verification:
-    google: ''
+    google: 'G-B9SJS5JPCS'
     baidu: ''
   #seo: 
    # site_type: Person

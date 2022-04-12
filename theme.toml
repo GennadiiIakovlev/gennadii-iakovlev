@@ -1,47 +1,16 @@
-name = "Academic"
+name = "Gennadii Iakovlev"
 license = "MIT"
 licenselink = "https://github.com/wowchemy/starter-hugo-academic/blob/master/LICENSE.md"
-description = "Use the website builder to easily build your site with 50+ widgets and deploy with one click! Fully customize your site with themes, plugins, and language packs."
+description = "An academic personal website of Gennadii Iakovlev that feature the most recent publications and databases in political science"
 homepage = "https://github.com/wowchemy/starter-hugo-academic/"
 demosite = "https://wowchemy.com/templates/"
 min_version = "0.84"
-tags = ["widgets",
-        "resume",
-        "portfolio",
-        "responsive",
-        "clean",
-        "personal",
-        "company",
-        "blog",
-        "minimal",
-        "light",
-        "dark",
-        "multilingual",
-        "documentation",
-        "landing page",
-        "projects",
-        "single page",
-        "contact form",
-        "mobile",
-        "gallery",
-        "search",
-        "presentation",
-        "simple",
-        "minimalist",
-        "starter",
-        "modern",
-        "one page",
-        "customizable",
-        "technical",
-        "product",
-        "slide"
-        ]
-features = ["page builder", "widgets", "themes", "search", "research publication system", "filterable portfolio",
-            "blog", "create courses", "talks", "events", "slides", "gallery", "contact form"]
+tags = ["Gennadii Iakovlev", "Gennadii Iakovlev PhD", "Iakovlev", "pacted transitions"]
+features = ["Gennadii Iakovlev", "Gennadii Iakovlev PhD", "Iakovlev", "pacted transitions"]
 
 [author]
-  name = "George Cushen"
-  homepage = "https://georgecushen.com"
+  name = "Gennadii Iakovlev"
+  homepage = ""
 
 # If porting an existing theme
 [original]

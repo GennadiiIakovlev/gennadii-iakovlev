@@ -18,7 +18,7 @@ marketing:
     site_type: Person
     local_business_type: ''
     org_name: ''
-    description: 'An academic personal website of Gennadii Iakovlev that feature the most recent publications and databases.'
+    description: 'An academic personal website of Gennadii Iakovlev that features the most recent publications and databases.'
     twitter: 'wowchemy'
   analytics:
     google_analytics: 'G-B9SJS5JPCS'
@@ -59,7 +59,7 @@ footer:
 # Localization
 
 locale:
-  date_format: 'Jan 2, 2006'
+  date_format: 'Apr 12, 2022'
   time_format: '3:04 PM'
   address_format: en-us
 

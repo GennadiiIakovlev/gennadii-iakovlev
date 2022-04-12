@@ -18,7 +18,7 @@ marketing:
     site_type: Person
     local_business_type: ''
     org_name: ''
-    description: 'An academic personal website in political science that feature the most recent publications and databases.'
+    description: 'An academic personal website of Gennadii Iakovlev that feature the most recent publications and databases.'
     twitter: 'wowchemy'
   analytics:
     google_analytics: 'G-B9SJS5JPCS'
@@ -34,10 +34,6 @@ marketing:
  #  analytics: 'Iakovlev', 'Gennadii Iakovlev', 'Dr. Dennadii Iakovlev'
    #  google_analytics: 'Iakovlev', 'Gennadii Iakovlev', 'Dr. Dennadii Iakovlev'
   #   baidu_tongji:
-  #verification:
-  # google: 'google-site-verification=G2THQs1wuS50Cx6S71qc-KDYw-Cg209X2UjslzyKC38'
-   #google: '<meta name="google-site-verification" content="IUXRF8MohGM6bH1TWDiIQUTIk_Y4a7wTz5NKaPY0-yc" />' 
-   #  baidu:
 
 # Site header
 
@@ -82,7 +78,7 @@ features:
   privacy_pack:
     enable: false
   repository:
-    url: 'https://github.com/<username>/<repository>'
+    url: 'https://github.com/GennadiiIakovlev/gennadii-iakovlev'
     content_dir: content
     branch: master
   avatar:

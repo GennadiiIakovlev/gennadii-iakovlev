@@ -49,7 +49,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {2022} Gennadii Iakovlev.
+    notice: '© {2022} Gennadii Iakovlev'
     license:
       enable: true
       allow_derivatives: false

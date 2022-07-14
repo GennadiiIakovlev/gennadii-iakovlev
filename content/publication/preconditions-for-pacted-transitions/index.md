@@ -4,7 +4,7 @@ publication_types:
   - "2"
 authors:
   - admin
-publication: EPSR
+publication: European Political Science Review
 publication_short: EPSR 
 abstract: "This paper investigates why some attempts at pacted transitions from
   non-democratic rule fail, while others succeed. It determines the composition
@@ -17,6 +17,7 @@ abstract: "This paper investigates why some attempts at pacted transitions from
   regime is personalistic. "
 draft: false
 featured: false
+url_source:https://doi.org/10.1017/S1755773922000273
 image:
   filename: featured
   focal_point: Smart

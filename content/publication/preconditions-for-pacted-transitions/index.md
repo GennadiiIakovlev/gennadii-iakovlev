@@ -17,7 +17,7 @@ abstract: "This paper investigates why some attempts at pacted transitions from
   regime is personalistic. "
 draft: false
 featured: false
-url_source:https://doi.org/10.1017/S1755773922000273
+url_source: https://doi.org/10.1017/S1755773922000273
 image:
   filename: featured
   focal_point: Smart

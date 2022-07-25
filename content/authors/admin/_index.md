@@ -10,9 +10,8 @@ role: PhD in Political Science
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: European University Institute
-  url: https://www.eui.eu/
-
+- name:Central European University
+  url: [https://ias.ceu.edu/junior-fellowship-program](https://ias.ceu.edu/people/gennadii-iakovlev)
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include autocratic politics and regime change.
 

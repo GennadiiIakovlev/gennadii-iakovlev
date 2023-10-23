@@ -6,11 +6,11 @@ title: Gennadii Iakovlev
 superuser: true
 
 # Role/position/tagline
-role: PhD in Political Science
+role: Postdoc in Political Science
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name:[censored]
+- name:
   url: 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include regime change and autocratic politics.

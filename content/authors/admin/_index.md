@@ -69,7 +69,7 @@ email: "gennadii.iakovlev@eui.eu"
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-I am a Postdoctoral Fellow at the Institute for Advance Study at the CEU, Budapest, Hungary. I hold a PhD in Political Science from the European University Institute.  My research interests include autocratic politics and various types of regime change: from transitions within autocratic regimes to democratisations to democratic backslides. I taught classes in European University at Saint Petersburg, HHU Dusseldorf, and TU Darmstadt.
+I am a Postdoctoral Fellow in Budapest, Hungary. I hold a PhD in Political Science from the European University Institute.  My research interests include autocratic politics and various types of regime change: from transitions within autocratic regimes to democratisations to democratic backslides. I taught classes in European University at Saint Petersburg, HHU Dusseldorf, and TU Darmstadt.
 
 In my current research, I am seeking to tease out the preconditions for democratic backslides and to create a comprehensive database of backslides. In my PhD thesis, I analyzed preconditions for pacted transitions from authoritarian rule and showed different pathways that allow for a successful transition depending on who represents the opposition during negotiations. 
 

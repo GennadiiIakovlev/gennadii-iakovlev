@@ -18,6 +18,7 @@ bio: My research interests include AI in regime change studies, and autocratic p
 # Interests to show in About widget
 interests:
 - Autocratization
+- AI in Political Science
 - Democratization
 - Autocratic Politics
 

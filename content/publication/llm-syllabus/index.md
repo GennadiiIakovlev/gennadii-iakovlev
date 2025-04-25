@@ -1,10 +1,8 @@
 ---
-title:Using Large Language Models in Political
-Science
+title:"Using Large Language Models in Political Science"
 subtitle:
   - "2"
 authors:
-
   - admin
 doi: 
 publication:
@@ -26,5 +24,5 @@ image:
   filename: featured
   focal_point: Smart
   preview_only: false
-date: 
+date: 2025
 ---

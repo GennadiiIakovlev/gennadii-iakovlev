@@ -1,5 +1,5 @@
 ---
-title:Using Large Language Models in Political Science
+title: Using Large Language Models in Political Science
 publication_types:
   - "3"
 authors:

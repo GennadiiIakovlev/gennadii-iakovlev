@@ -16,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/GennadiiIakovlev/gennadii-iakovlev/issues"
   },
-  "homepage": "https://github.com/GennadiiIakovlev/gennadii-iakovlev#readme"
+  "homepage": "https://github.com/GennadiiIakovlev/gennadii-iakovlev#readme",
+  "devDependencies": {
+    "@netlify/plugin-sitemap": "^0.8.1",
+    "netlify-plugin-hugo-cache-resources": "^0.2.1"
+  }
 }

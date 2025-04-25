@@ -15,6 +15,12 @@
 [context.branch-deploy]
   command = "hugo --gc --minify -b $DEPLOY_PRIME_URL"
 
+  [[plugins]]
+package = "netlify-plugin-check-output-for-puppy-references"
+  [plugins.inputs]
+  breeds = ["pomeranian", "chihuahua", "bulldog"]
+
+
 [[plugins]]
   package = "netlify-plugin-hugo-cache-resources"
   [plugins.inputs]
@@ -24,4 +30,19 @@ package = "@netlify/plugin-sitemap"
 
   [plugins.inputs]
   buildDir = "public"
+
+  [[integrations]]
+  name = "abc-performance-extension"
+
+  [integrations.config]
+    output_path = "reports/performance-reports.html"
+    fail_deploy_on_score_thresholds = "true"
+
+  [integrations.config.thresholds]
+    performance = 0.9
+    accessibility = 0.9
+    best-practices = 0.9
+    seo = 0.9
+    pwa = 0.9
+
 

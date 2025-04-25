@@ -9,9 +9,6 @@ draft: false
 featured: false
 
 url_pdf: "https://github.com/GennadiiIakovlev/gennadii-iakovlev/raw/master/content/publication/llm-cheatsheet/llm-low-entry.pdf"
-  filename: featured
-  focal_point: Smart
-  preview_only: false
 date: 2025-04-01  
 
 ---

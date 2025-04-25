@@ -4,8 +4,8 @@ publication_types:
   - "2"
 authors:
   - admin
-doi: 
-publication:
+doi: ""
+publication:""
 abstract: "Recent advancements in Natural Language Processing (NLP) and the emergence of powerful Large
 Language Models (LLMs) such as OpenAI’s ChatGPT, DepSeek R1, Meta LLAMA, Mistral have
 opened new avenues for research in political science. LLMs made methods that were technically
@@ -24,5 +24,6 @@ image:
   filename: featured
   focal_point: Smart
   preview_only: false
-date: 2025
+date: 2025-01-01  
+
 ---

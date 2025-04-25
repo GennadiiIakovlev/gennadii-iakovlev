@@ -14,8 +14,8 @@ abstract: This course seeks to shed light on the internal organization of
   remain autocratic? How can we then distinguish between democracy and
   dictatorship? What autocratic regimes are the most economically prosperous?
 draft: false
-featured: true
-url_pdf: https://github.com/GennadiiIakovlev/gennadii-iakovlev/raw/81ea450e456e46e464b950ca2cc67de41b261f23/content/publication/the-politics-of-dictatorship/the-politics-of-dicatorship.pdf
+featured: false
+# url_pdf: https://github.com/GennadiiIakovlev/gennadii-iakovlev/raw/81ea450e456e46e464b950ca2cc67de41b261f23/content/publication/the-politics-of-dictatorship/the-politics-of-dicatorship.pdf
 # url_pdf: 'https://github.com/GennadiiIakovlev/gennadii-iakovlev/blob/81ea450e456e46e464b950ca2cc67de41b261f23/content/publication/the-politics-of-dictatorship/the-politics-of-dicatorship.pdf'
 
 image:

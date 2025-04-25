@@ -1,5 +1,5 @@
 # Tell Hugo (and Wowchemy-SEO) your GA tracking ID:
-googleAnalytics: "G-B9SJS5JPCS"
+# googleAnalytics: "G-B9SJS5JPCS"
 # Configuration of Hugo
 # Guide: https://wowchemy.com/docs/getting-started/
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
@@ -38,7 +38,7 @@ module:
 ############################
 ## ADVANCED
 ############################
-googleAnalytics: "G-B9SJS5JPCS"
+# googleAnalytics: "G-B9SJS5JPCS"
 enableGitInfo: true
 summaryLength: 30
 pagination:
@@ -83,3 +83,6 @@ sitemap:
       changefreq: weekly
       priority: 0.8
       title: News
+services:
+  googleAnalytics:
+    id: "G-B9SJS5JPCS"

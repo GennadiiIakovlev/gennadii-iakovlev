@@ -1,35 +1,59 @@
+# netlify.toml
+
+############################
+# Global build settings
+############################
 [build]
   command = "hugo --gc --minify -b $URL"
   publish = "public"
 
-[build.environment]
-  HUGO_VERSION = "0.146.7"
-  HUGO_ENABLEGITINFO = "true"
+  [build.environment]
+    HUGO_VERSION       = "0.146.7"
+    HUGO_ENABLEGITINFO = "true"
 
 [context.production.environment]
   HUGO_ENV = "production"
 
+# Preview builds (e.g. PRs)
 [context.deploy-preview]
   command = "hugo --gc --minify --buildFuture -b $DEPLOY_PRIME_URL"
 
+# Branch deploys
 [context.branch-deploy]
   command = "hugo --gc --minify -b $DEPLOY_PRIME_URL"
-  [[plugins]]
-  [plugins.inputs]
-  buildDir = "public"
 
-  [[integrations]]
+############################
+# Plugins (global)
+############################
+# If you want these plugins *everywhere*, define them here:
+[[plugins]]
+  package = "@netlify/plugin-sitemap"
+
+[[plugins]]
+  package = "netlify-plugin-hugo-cache-resources"
+  [plugins.inputs]
+    debug = true
+
+# Example of a context-specific plugin (only runs on branch-deploy)
+# Uncomment if you need it:
+# [[context.branch-deploy.plugins]]
+#   package = "netlify-plugin-hugo-cache-resources"
+#   [context.branch-deploy.plugins.inputs]
+#     buildDir = "public"
+
+############################
+# Integrations (global)
+############################
+[[integrations]]
   name = "abc-performance-extension"
 
   [integrations.config]
-    output_path = "reports/performance-reports.html"
-    fail_deploy_on_score_thresholds = "true"
+    output_path                = "reports/performance-reports.html"
+    fail_deploy_on_score_thresholds = true
 
-  [integrations.config.thresholds]
-    performance = 0.9
-    accessibility = 0.9
-    best-practices = 0.9
-    seo = 0.9
-    pwa = 0.9
-
-
+    [integrations.config.thresholds]
+      performance    = 0.9
+      accessibility  = 0.9
+      best-practices = 0.9
+      seo            = 0.9
+      pwa            = 0.9

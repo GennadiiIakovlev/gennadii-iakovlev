@@ -3,7 +3,7 @@ title: Low-entry barrier LLM research tools
 publication_types:
   - "3"
 authors:
-  - admin
+  -admin
 abstract: "List of useful resources, real-world examples, tutorials, and vibe coding tools"
 draft: false
 featured: false

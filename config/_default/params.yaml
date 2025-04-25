@@ -26,11 +26,11 @@ marketing:
   verification:
     google: 'G-B9SJS5JPCS'
     baidu: ''
-  #seo: 
+  #seo:
    # site_type: Person
-   #  org_name: 
+   #  org_name:
     # description: 'An academic personal website in political science that feature the most recent publications and databases.'
-   #  twitter: 
+   #  twitter:
  #  analytics: 'Iakovlev', 'Gennadii Iakovlev', 'Dr. Dennadii Iakovlev'
    #  google_analytics: 'Iakovlev', 'Gennadii Iakovlev', 'Dr. Dennadii Iakovlev'
   #   baidu_tongji:
@@ -49,7 +49,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {2022} Gennadii Iakovlev'
+    notice: '© {2025} Gennadii Iakovlev'
     license:
       enable: true
       allow_derivatives: false

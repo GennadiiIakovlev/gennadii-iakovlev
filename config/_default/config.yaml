@@ -27,7 +27,7 @@ module:
 ############################
 ## ADVANCED
 ############################
-
+googleAnalytics: "G-B9SJS5JPCS"
 enableGitInfo: true
 summaryLength: 30
 pagination:

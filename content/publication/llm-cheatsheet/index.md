@@ -7,6 +7,7 @@ authors:
 abstract: "List of useful resources, real-world examples, tutorials, and vibe coding tools"
 draft: false
 featured: false
+
 url_pdf: "https://github.com/GennadiiIakovlev/gennadii-iakovlev/raw/master/content/publication/llm-cheatsheet/llm-low-entry.pdf"
   filename: featured
   focal_point: Smart

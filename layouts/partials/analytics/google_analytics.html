@@ -1,0 +1,13 @@
+{{/* layouts/partials/analytics/google_analytics.html */}}
+
+{{ $id := .Site.Params.marketing.analytics.google_analytics }}
+{{ if $id }}
+<!-- Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id={{ $id }}"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){ dataLayer.push(arguments); }
+  gtag('js', new Date());
+  gtag('config', '{{ $id }}', { 'anonymize_ip': true });
+</script>
+{{ end }}

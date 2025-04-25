@@ -22,10 +22,9 @@ marketing:
     twitter: 'wowchemy'
   analytics:
     google_analytics: 'G-B9SJS5JPCS'
-    baidu_tongji: ''
   verification:
     google: 'G-B9SJS5JPCS'
-    baidu: ''
+
   #seo:
    # site_type: Person
    #  org_name:

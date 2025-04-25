@@ -30,7 +30,8 @@ module:
 
 enableGitInfo: true
 summaryLength: 30
-paginate: 10
+pagination:
+  pagerSize: 10
 enableEmoji: true
 enableRobotsTXT: true
 footnotereturnlinkcontents: <sup>^</sup>
@@ -67,7 +68,7 @@ related:
       weight: 70
 security:
   _merge: deep
-sitemap:  
+sitemap:
       changefreq: weekly
       priority: 0.8
       title: News
